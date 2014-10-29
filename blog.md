@@ -1,6 +1,6 @@
 ---
+title: blog
 description: "My Blog"
-permalink: /blog/
 layout: default
 header-img: "img/home-bg.jpg"
 ---
