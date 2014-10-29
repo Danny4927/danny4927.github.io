@@ -1,8 +1,8 @@
 ---
-layout: page
 title: "About"
 description: "This is what I do."
+layout: page
 header-img: "/img/about-bg.jpg"
 ---
 
-<p> My new page here</p>
+My new page here
