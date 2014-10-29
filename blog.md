@@ -1,7 +1,7 @@
 ---
 title: blog
 description: "My Blog"
-layout: default
+layout: page
 header-img: "img/home-bg.jpg"
 ---
 
