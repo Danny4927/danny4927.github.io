@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "Jekyll instructions"
+subtitle:   "only in case"
 date:   2014-10-29 14:43:31
+author:     "danny4927"
 categories: jekyll update
+header-img: "img/post-bg-01.jpg"
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
