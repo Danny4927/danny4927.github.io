@@ -1,7 +1,7 @@
 ---
 title: Blog
 permalink: /blog/
-description: "My Blog"
+description: "My little Tech-Blog"
 layout: page
 header-img: "../img/home-bg.jpg"
 ---
