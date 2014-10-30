@@ -1,0 +1,10 @@
+---
+layout: 	post
+title:  	"Design ist online"
+subtitle:   "Der erste Post"
+date:   	2014-10-29 18:43:31
+author:     "danny4927"
+header-img: "img/post-bg-01.jpg"
+---
+
+<p>So...mein erster richtiger Blogeintrag. Da mir das Standard Jekyll Design ein bisschen zu schlicht war, habe ich mich jetzt mal an ein bootstrap Layout gewagt. Das Design gefällt mir schon mal ganz gut und ich habe jetzt auch alle Seiten zum laufen gebracht. </p>
