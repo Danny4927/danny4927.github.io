@@ -3,7 +3,7 @@ title: Blog
 permalink: /blog/
 description: "My little Tech-Blog"
 layout: page
-header-img: "../img/home-bg.jpg"
+header-img: "../img/post-bg-04.jpg"
 ---
 
 {% for post in site.posts %}
