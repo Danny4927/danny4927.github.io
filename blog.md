@@ -1,11 +1,12 @@
 ---
-title: blog
+title: Blog
+permalink: /blog/
 description: "My Blog"
 layout: page
-header-img: "img/home-bg.jpg"
+header-img: "../img/home-bg.jpg"
 ---
 
-{% for post in paginator.posts %}
+{% for post in site.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">

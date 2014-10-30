@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jekyll instructions"
-subtitle:   "only in case"
+subtitle:   "just in case"
 date:   2014-10-29 14:43:31
 author:     "danny4927"
 categories: jekyll update
