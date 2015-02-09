@@ -4,7 +4,7 @@ email: danielknoell@gmx.de
 description: > # this means to ignore newlines until "baseurl:"
   This is my example page for playing around with github and Jekyll :)
 github_username:  danny4927
-highlighter: true
+highlighter: pygments
 github: [Repository metadata]
 
 # Build settings
