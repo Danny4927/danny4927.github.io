@@ -7,7 +7,7 @@ author:     "danny4927"
 header-img: "img/post-bg-02.jpg"
 ---
 
-Wie ihr vielleicht schon unter [About Me](../../../../../../about) gesehen habt, habe ich dort einen Zeitstrahl eingefügt. Wie das funktioniert werde ich euch in diesem Post erklären. 
+Wie ihr vielleicht schon unter [About Me](../../../../../../about) gesehen habt, habe ich dort einen Zeitstrahl eingefÃ¼gt. Wie das funktioniert werde ich euch in diesem Post erklÃ¤ren. 
 
 
 Genutzt wird dazu [TimelineJS](http://timeline.knightlab.com/). Der Prozess ist in vier Schritte unterglieder:
@@ -16,15 +16,15 @@ Genutzt wird dazu [TimelineJS](http://timeline.knightlab.com/). Der Prozess ist 
 1. Erstelle in Google Docs eine Tabelle mit allen Daten die in dem Zeitstrahl eingetragen werden sollen. 
 Dazu sollte die [Vorlage](https://drive.google.com/previewtemplate?id=0AppSVxABhnltdEhzQjQ4MlpOaldjTmZLclQxQWFTOUE&mode=public) genutzt werden.
 
-2. Veröffentliche die Tabelle. Sie dient als Datenspeicher für den Zeitstrahl. Wird die Tabelle später verändert, so 
-verändert sich auch der Zeitstrahl. Zum Veröffentlichen wir im Menü `File` der Punkt `Publish to Web..` ausgewählt. 
-Kopiere anschließend den Veröffentlichungslink für den nächsten Schritt.
+2. VerÃ¶ffentliche die Tabelle. Sie dient als Datenspeicher fÃ¼r den Zeitstrahl. Wird die Tabelle spÃ¤ter verÃ¤ndert, so 
+verÃ¤ndert sich auch der Zeitstrahl. Zum VerÃ¶ffentlichen wir im MenÃ¼ `File` der Punkt `Publish to Web..` ausgewÃ¤hlt. 
+Kopiere anschlieÃŸend den VerÃ¶ffentlichungslink fÃ¼r den nÃ¤chsten Schritt.
 
 3. Lass dir mithilfe des kopierten Links einen `iframe` generieren. Auf der Webseite von 
-[TimelineJS](http://timeline.knightlab.com/) kann im dritten Schritt der Link zum Google Spreadsheet eingefügt werden. 
-Außerdem können dort weitere Einstellungen, wie zum Beispiel die Sprache, festgelegt werden.
+[TimelineJS](http://timeline.knightlab.com/) kann im dritten Schritt der Link zum Google Spreadsheet eingefÃ¼gt werden. 
+AuÃŸerdem kÃ¶nnen dort weitere Einstellungen, wie zum Beispiel die Sprache, festgelegt werden.
 
-4. Generiertes `iframe` in Webseite einfügen. Dazu muss lediglich der generierte Code kopiert werden un an der Stelle 
-eingefügt werden, wo später der Zahlenstrahl auftauchen soll. 
+4. Generiertes `iframe` in Webseite einfÃ¼gen. Dazu muss lediglich der generierte Code kopiert werden un an der Stelle 
+eingefÃ¼gt werden, wo spÃ¤ter der Zahlenstrahl auftauchen soll. 
 
-So bekommt man ohne JavaScript Know-How in kürzester Zeit einen schicken Zahlenstrahl auf seine Webseite. 
+So bekommt man ohne JavaScript Know-How in kÃ¼rzester Zeit einen schicken Zahlenstrahl auf seine Webseite. 
