@@ -8,6 +8,7 @@ highlighter: pygments
 github: [Repository metadata]
 
 # Build settings
+exclude: [vendor]
 markdown: kramdown
 permalink: pretty
 encoding: utf-8
