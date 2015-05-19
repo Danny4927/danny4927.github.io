@@ -7,14 +7,14 @@ author:     "danny4927"
 header-img: "img/post-bg-02.jpg"
 ---
 
-<p>
-So...mein erster richtiger Blogeintrag. Da mir das Standard Jekyll Design ein bisschen zu schlicht war, habe ich mich
- an ein <a href="https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll" title="Design">bootstrap Design</a> 
+
+So...mein erster richtiger Blogeintrag. Da mir das Standard Jekyll Design ein bisschen zu schlicht war, habe ich mich 
+an ein [bootstrap Design](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll) 
  gewagt. Das Design gefällt mir schon mal ganz gut und ich habe jetzt auch alle Seiten zum laufen gebracht. 
-</p>
-<p>
-Das Einbinden funktionierte ganze einfach. Zuerst muss das github Projekt (<a href="https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll" title="Design">hier</a>) geclont werden.
+
+
+Das Einbinden funktionierte ganze einfach. Zuerst muss das [github Projekt](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll) geclont werden.
 Anschließend werden die Dateien in mein bestehendes Jekyll Repository hineinkopiert. Bei Konflikten werden die eigenen 
 Dateien erhalten. Diese werden dann der Vorlage entsprechend angepasst und schon ist das neue Design eingebunden.
 Die Bilder werde ich, wenn ich Zeit finde, noch austauschen.
-</p>
+
