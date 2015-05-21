@@ -7,7 +7,7 @@ author:     "danny4927"
 header-img: "img/post-bg-02.jpg"
 ---
 
-Wie ihr vielleicht schon unter [About Me]({% post_url ../about %})gesehen habt, habe ich dort einen Zeitstrahl eingefügt. Wie das funktioniert werde ich euch in diesem Post erklären. 
+Wie ihr vielleicht schon unter [About Me]({{ site.baseurl }}/about.html)gesehen habt, habe ich dort einen Zeitstrahl eingefügt. Wie das funktioniert werde ich euch in diesem Post erklären. 
 
 
 Genutzt wird dazu [TimelineJS](http://timeline.knightlab.com/). Der Prozess ist in vier Schritte unterglieder:
