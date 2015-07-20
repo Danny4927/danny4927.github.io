@@ -18,7 +18,7 @@ header-img: "../img/post-bg-04.jpg"
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">Veröffentlicht am {{ post.date | date: "%-d.%-m.%Y" }} von {{ post.author }}</p>
 </div>
 <hr>
 {% endfor %}
