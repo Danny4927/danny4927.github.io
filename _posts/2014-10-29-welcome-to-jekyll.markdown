@@ -3,7 +3,7 @@ layout: post
 title:  "Jekyll instructions"
 subtitle:   "just in case"
 date:   2014-10-29 14:43:31
-author:     "danny4927"
+author:     "Danny"
 categories: jekyll update
 header-img: "img/post-bg-01.jpg"
 ---
