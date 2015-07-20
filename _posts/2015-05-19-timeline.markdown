@@ -4,6 +4,7 @@ title:  	"Eigene Timeline"
 subtitle:   "TimelineJS mit Google Spreadsheet"
 date:   	2015-05-19 18:43:31
 author:     "Danny"
+comments:   true
 header-img: "img/post-bg-02.jpg"
 ---
 
