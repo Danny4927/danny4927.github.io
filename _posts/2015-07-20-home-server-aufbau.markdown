@@ -1,57 +1,57 @@
 ---
 layout: 	post
 title:  	"Aufbau Home Server"
-subtitle:   "Kleiner Server für die WG"
+subtitle:   "Kleiner Server fÃ¼r die WG"
 date:   	2015-07-19 17:30:31
 author:     "Danny"
 header-img: "img/post-bg-02.jpg"
 ---
 
 Unser alter WG Server hat den Geist aufgegeben und nun soll ein neuer her. Das System vorher war der Acer Aspire X1700, 
-der von meinem Mitbewohner zur Verfügung gestellt wurde. Dieser ist defekt und soll deswegen durch eine möglichst
+der von meinem Mitbewohner zur VerfÃ¼gung gestellt wurde. Dieser ist defekt und soll deswegen durch eine mÃ¶glichst
 stromsparende Alternative ersetzt werden.
 
 ## Anforderungen
-Der Server soll hauptsächlich als Mediaserver für die WG dienen. Außerdem soll durch Netzwerkfreigaben der einfache Austausch 
-von Daten innerhalb des Heimnetzwerks gewährleisetet werden. Zusätzlich soll die Anleitung für die Benutzung des Servers 
-in Form einer Webseite zur Verfügung gestellt werden.
+Der Server soll hauptsÃ¤chlich als Mediaserver fÃ¼r die WG dienen. AuÃŸerdem soll durch Netzwerkfreigaben der einfache Austausch 
+von Daten innerhalb des Heimnetzwerks gewÃ¤hrleisetet werden. ZusÃ¤tzlich soll die Anleitung fÃ¼r die Benutzung des Servers 
+in Form einer Webseite zur VerfÃ¼gung gestellt werden.
 
-Die Hardware soll in einer Studentenwg natürlich möglichst günstig und stromsparend sein, wobei der Server nicht im 
-Dauerbetrieb läuft, sondern nur bei Bedarf per Wake-on-LAN gestartet wird.
+Die Hardware soll in einer Studentenwg natÃ¼rlich mÃ¶glichst gÃ¼nstig und stromsparend sein, wobei der Server nicht im 
+Dauerbetrieb lÃ¤uft, sondern nur bei Bedarf per Wake-on-LAN gestartet wird.
 
 
 ## Board
 Als Board wird das [Intel Desktop Board D945GCLF2](http://ark.intel.com/de/products/42491/Intel-Desktop-Board-D945GCLF2) 
 verwendet, das ich vor einiger Zeit geschenkt bekommen habe. Dadurch werden die Kosten sehr gering gehalten und der 
-Stromverbrauch sollte ebenfalls viel geringer ausfallen (wird noch gemessen). Das Board enthält einen Intel Atom 330 
+Stromverbrauch sollte ebenfalls viel geringer ausfallen (wird noch gemessen). Das Board enthÃ¤lt einen Intel Atom 330 
 (1,6 GHz, 2 Kerne, HT, 1 MiB L2, FSB533, Hyper-Thr., 8 Watt TDP), welcher durch Hyper-Threading auf vier logische Kerne 
- kommt. Der Chipsatz der Intel 945GM mit GBit-LAN, 8x USB 2.0, 2x SATA udn 1x IDE. Der aktive Kühler des Chipsatzes wurde
+ kommt. Der Chipsatz der Intel 945GM mit GBit-LAN, 8x USB 2.0, 2x SATA udn 1x IDE. Der aktive KÃ¼hler des Chipsatzes wurde
  durch einen [passiven](http://www.pollin.de/shop/dt/MDE5OTY1OTk-/Bauelemente_Bauteile/Mechanische_Bauelemente/Kuehlkoerper/Finger_Kuehlkoerper_AAVID_50x50x45_2_Stueck.html)
- Kühlkörper ersetzt. Deswegen ist für das Gehäuse auf jeden Fall ein Gehäuselüfter nötig. Als Speicher wird 1GB DDR2 RAM 
- benutzt.  Ein Upgrad auf die maximal möglichen 2GB ist geplant.  
+ KÃ¼hlkÃ¶rper ersetzt. Deswegen ist fÃ¼r das GehÃ¤use auf jeden Fall ein GehÃ¤uselÃ¼fter nÃ¶tig. Als Speicher wird 1GB DDR2 RAM 
+ benutzt.  Ein Upgrad auf die maximal mÃ¶glichen 2GB ist geplant.  
                                                                                         
  
-## Gehäuse 
-Dazu wurde als Gehäuse das [MS-Tech LC-01 Rev. C](http://www.arlt.com/Hardware/PC-Komponenten/Gehaeuse/HTPC/MS-Tech-LC-01-Rev-C.html)
-verwendet, welches auch schon ein eingebautes 400W Netzteil enthält. Das Gehäuse liegt bei [Arlt](http://www.arlt.com/) 
-derzeit bei ca. 45 Euro uns ist somit relativ günstig. Des Weiteren ist oben ein 80mm Lüfter vorinstalliert, der direkt am 
+## GehÃ¤use 
+Dazu wurde als GehÃ¤use das [MS-Tech LC-01 Rev. C](http://www.arlt.com/Hardware/PC-Komponenten/Gehaeuse/HTPC/MS-Tech-LC-01-Rev-C.html)
+verwendet, welches auch schon ein eingebautes 400W Netzteil enthÃ¤lt. Das GehÃ¤use liegt bei [Arlt](http://www.arlt.com/) 
+derzeit bei ca. 45 Euro uns ist somit relativ gÃ¼nstig. Des Weiteren ist oben ein 80mm LÃ¼fter vorinstalliert, der direkt am 
 Netzteil angeschlossen ist.
 
 ## HDD
-Dadurch, dass ich an meinem PC die HDD durch eine SSD ersetzt habe, hatte ich noch eine 320 GB Hitachi Platte übrig. 
-Diese wurde für das Betriebssystem verwendet. Für Daten wurde die 4TB WD Green aus altem Server benutzt. Damit sind die 
+Dadurch, dass ich an meinem PC die HDD durch eine SSD ersetzt habe, hatte ich noch eine 320 GB Hitachi Platte Ã¼brig. 
+Diese wurde fÃ¼r das Betriebssystem verwendet. FÃ¼r Daten wurde die 4TB WD Green aus altem Server benutzt. Damit sind die 
 die beiden SATA Ports des Boards auch schon ausgelastet.
 
 ## Kritik
-Der Gehäuselüfter läuft durchgehen auf 100%, da er direkt an das Netzteil angeschlossen ist. Eine Lösung dafür wäre das 
-ersetzen des Lüfters durch einen anderen, der direkt ans Mainboard angeschlossen und darüber gesteuert wird.
+Der GehÃ¤uselÃ¼fter lÃ¤uft durchgehen auf 100%, da er direkt an das Netzteil angeschlossen ist. Eine LÃ¶sung dafÃ¼r wÃ¤re das 
+ersetzen des LÃ¼fters durch einen anderen, der direkt ans Mainboard angeschlossen und darÃ¼ber gesteuert wird.
 
-## Übersicht
+## Ãœbersicht
 
 * Board: Intel Desktop Board D945GCLF2
 * Prozessor: Intel Atom 330 (1,6 GHz, 2 Kerne, HT, 1 MiB L2, FSB533, Hyper-Thr., 8 Watt TDP) 
 * Chipsatz: Intel 945GM, GBit-LAN, 8x USB 2.0, 2x SATA, 1x IDE 
-* Gehäuse: MS-Tech LC-01 Rev. C
+* GehÃ¤use: MS-Tech LC-01 Rev. C
 * Netzteil: 400W
 * HDD: System: 320GB Daten: 4TB
 
