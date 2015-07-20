@@ -4,6 +4,7 @@ title:  	"Aufbau Home Server"
 subtitle:   "Kleiner Server für die WG"
 date:   	2015-07-19 17:30:31
 author:     "Danny"
+comments:   true
 header-img: "img/post-bg-02.jpg"
 ---
 
