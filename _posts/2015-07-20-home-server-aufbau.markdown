@@ -55,7 +55,7 @@ ersetzen des Lüfters durch einen anderen, der direkt ans Mainboard angeschlosse
 * Netzteil: 400W
 * HDD: System: 320GB Daten: 4TB
 
-![Server nach dem einbau der Komponenten](img/server.jpg "Board eingebaut")
+![Server nach dem einbau der Komponenten]({{ site.url }}/img/server.jpg "Board eingebaut")
 
 ## Software
 Zu der Software werde ich bald einen neuen Post erstellen.
