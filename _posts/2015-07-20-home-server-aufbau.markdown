@@ -43,8 +43,9 @@ Diese wurde für das Betriebssystem verwendet. Für Daten wurde die 4TB WD Green
 die beiden SATA Ports des Boards auch schon ausgelastet.
 
 ## Kritik
-Der Gehäuselüfter läuft durchgehen auf 100%, da er direkt an das Netzteil angeschlossen ist. Eine Lösung dafür wäre das 
-ersetzen des Lüfters durch einen anderen, der direkt ans Mainboard angeschlossen und darüber gesteuert wird.
+Der Gehäuselüfter läuft durchgehend auf 100%, da er direkt an das Netzteil angeschlossen ist. Dadurch entsteht dauerhaft 
+eine gewisse Geräuschkulisse, welche jedoch nicht so sehr stört, da der Server bei uns im Gang steht. Eine Lösung dafür 
+wäre das Ersetzen des Lüfters durch einen anderen, der direkt an das Mainboard angeschlossen ist und darüber gesteuert wird.
 
 ## Übersicht
 
