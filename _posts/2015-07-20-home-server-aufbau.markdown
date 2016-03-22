@@ -48,6 +48,9 @@ Der Gehäuselüfter läuft durchgehend auf 100 %, da er direkt an das Netzteil a
 eine gewisse Geräuschkulisse, welche jedoch nicht so sehr stört, da der Server bei uns im Gang steht. Eine Lösung dafür 
 wäre das Ersetzen des Lüfters durch einen anderen, der direkt an das Mainboard angeschlossen ist und darüber gesteuert wird.
 
+**update** Der Gehäuselüfter ist trotzdem leiser als das integrierte Netzteil. Daher sollte dieses zuerst z.B. durch 
+eine PicoPSU eretzt werden
+
 ## Übersicht
 
 * Board: Intel Desktop Board D945GCLF2
