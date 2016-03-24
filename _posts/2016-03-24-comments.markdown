@@ -33,7 +33,7 @@ Mit [Isso](https://posativ.org/isso/) habe ich dann das Ende meiner Suche erreic
  Kommentar Server. Die Funktion ist ähnlich wie bei Disqus, nur dass der Server selbst gehostet wird und die Daten 
  (Kommentare, Email usw.) somit auf dem eigenen Server in einer SQLite Datenbank liegen. Der Nachteil daran ist das der 
  Server selbst eingerichtet werden muss. Dies erfordert ein bisschen Geduld, aber es lohnt sich auf jeden Fall. Die 
- Anleitung dazu findet ihr auf https://posativ.org/isso/.
+ Anleitung dazu findet ihr auf [https://posativ.org/isso/](https://posativ.org/isso/).
  
 # Fazit
 Es gibt verschiedene Möglichkeiten eine Kommentarfunktion in seine Website einzubauen. Wer einen eigenen Server hat und 
