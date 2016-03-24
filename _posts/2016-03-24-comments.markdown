@@ -1,0 +1,41 @@
+---
+layout: 	post
+title:  	"Kommentarfunktion für den eigenen Blog"
+subtitle:   "Disqus ist nicht die Lösung"
+date:   	2016-03-24 13:30:31
+author:     "Danny"
+comments:   true
+header-img: "img/post-bg-02.jpg"
+---
+
+Ich war immer mal wieder auf der Suche nach einer geeigneten Kommentarfunktion für den Blog. Dabei war mir eine niedrige 
+Einstiegsbarriere sowie der Datenschutz besonders wichtig. Bei den gesammelten Daten handelt es sich nicht nur um 
+die Kommentare selbst, sondern auch den Namen, die E-Mail Adresse und die Hompage die bei Kommentaren oft angegeben werden 
+können oder sogar müssen. Im Folgenden berichte ich über 3 Systeme die ich mir näher angeschaut habe:
+
+# Disqus
+Die schnellste und einfachste Lösung ist das weitverbreitete [Disqus](https://disqus.com/). Deswegen habe ich diese 
+zunächst auch eingesetzt. Als dann die ersten Kommentare von Freunden gemacht werden wollten war das Ergebnis ernüchternd.
+Zuerst muss man sich bei Disqus registrieren um einen Kommentar machen zu können. Diese Einstiegshürde war für viele schon 
+zu hoch: So wichtig war der Kommentar dann doch nicht. Der zweite Punkt der mich stört ist, dass die Kommentare dann bei 
+Disqus auf dem Server (USA) liegen. Aus Sicht des Datenschutzes nicht so optimal. Deswegen war mein Gedanke: Warum die Daten 
+wo anders Lagern, wenn ich doch meinen eigenen Server hab. Also machte ich mich auf die Suche nach alternativen.
+
+# Echochamber.js
+Ok diese Lösung war nicht ganz ernst gemeint aber ein lustiger Gedanke. Bei [Echochamber.js](https://github.com/tessalt/echo-chamber-js)
+ist die Installation ebenfalls sehr einfach (lediglich JS einbinden), es ist Spam sicher und es wird noch nicht einmal ein
+Server benötigt. Doch wo landen die Daten (Kommentare) dann? Nur auf dem lokalen Dateisystem! Dadurch hat der Benutzer 
+das Gefühl seinen Senf dazu abgegeben zu haben, aber niemand muss es lesen. Das ist zumindest die Aussage der Autorin. 
+Das ist zwar eine lustige Idee, aber nicht die Art von Kommentarfunktion die ich suche. 
+
+# Isso
+Mit [Isso](https://posativ.org/isso/) habe ich dann das Ende meiner Suche erreicht. Isso ist ein in Python geschriebener
+ Kommentar Server. Die Funktion ist ähnlich wie bei Disqus, nur dass der Server selbst gehostet wird und die Daten 
+ (Kommentare, Email usw.) somit auf dem eigenen Server in einer SQLite Datenbank liegen. Der Nachteil daran ist das der 
+ Server selbst eingerichtet werden muss. Dies erfordert ein bisschen Geduld, aber es lohnt sich auf jeden Fall. Die 
+ Anleitung dazu findet ihr auf https://posativ.org/isso/.
+ 
+# Fazit
+Es gibt verschiedene Möglichkeiten eine Kommentarfunktion in seine Website einzubauen. Wer einen eigenen Server hat und 
+auf Datenschutz wert legt, sollte diesen nutzen um einen eigenen Kommentarserver zu hosten. Ich habe mich für Isso 
+entschieden. Was sind eure Favoriten?
