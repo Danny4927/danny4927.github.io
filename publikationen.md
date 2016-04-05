@@ -5,7 +5,7 @@ layout: page
 header-img: "../img/about-bg.jpg"
 ---
 
-###2015
+### 2015
 
 - Knoell, D.; Rieder, C.; Atzmueller, M. & Scherer, K.-P. (2015), Subgroup Discovery as a Method for Generating Test Ontologies., _in_ Ralph Bergmann; Sebastian Görg & Gilbert Müller, ed., 'LWA' , CEUR-WS.org, , pp. 239-246 .
 
