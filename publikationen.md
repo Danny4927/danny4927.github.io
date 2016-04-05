@@ -7,7 +7,7 @@ header-img: "../img/about-bg.jpg"
 
 ### 2015
 
-- Knoell, D.; Rieder, C.; Atzmueller, M. & Scherer, K.-P. (2015), [Subgroup Discovery as a Method for Generating Test Ontologies](http://ceur-ws.org/Vol-1458/F05_CRC54_Knoell.pdf)., _in_ Ralph Bergmann; Sebastian Görg & Gilbert Müller, ed., 'LWA' , CEUR-WS.org, , pp. 239-246 .
+- Knoell, D.; Rieder, C.; Atzmueller, M. & Scherer, K.-P. (2015), [Subgroup Discovery as a Method for Generating Test Ontologies](http://ceur-ws.org/Vol-1458/F05_CRC54_Knoell.pdf)., _in_ Ralph Bergmann; Sebastian Görg & Gilbert Müller, ed., '[LWA](http://ceur-ws.org/Vol-1458/)' , [CEUR-WS.org](http://CEUR-WS.org/), pp. 239-246 .
 
 - Scherer, K. P.; Rieder, C.; Henninger, C.; Knoell, D.; Baumeister, J. & Furth, S. (2015), 'Selbstlernende Wissensbasen in der Kataraktchirurgie', _Spektrum der Augenheilkunde_ **29** (2) , 75-76 .
 
