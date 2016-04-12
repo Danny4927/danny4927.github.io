@@ -1,8 +1,8 @@
 # Site settings
-title: My github page
-email: danielknoell@gmx.de
+title: My little Homepage/Blog
+email: info@danielknoell.de
 description: > # this means to ignore newlines until "baseurl:"
-  This is my example page for playing around with github and Jekyll :)
+  This is my little homepage with tech blog.
 github_username:  danny4927
 highlighter: rouge
 github: [Repository metadata]
