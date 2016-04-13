@@ -37,6 +37,8 @@ header-img: "../img/contact-bg.jpg"
             <input type="submit" class="btn btn-default" value="Send">
         </div>
     </div>
+    <input type="text" name="_gotcha" style="display:none" />
+    <input type="hidden" name="_next" value="/" />
 </form>
 
 
