@@ -5,13 +5,7 @@ description: "Fragen? Dann hier melden!"
 header-img: "../img/contact-bg.jpg"
 ---
 
-<p>Hier schon einmal das Kontaktformular um mich zu erreichen. Funktionieren tut es allerdings noch nicht. Da müsst ihr euch noch ein bisschen gedulden.</p>
-<!-- Contact Form - Enter your email address on line 19 of the mail/contact_me.php file to make this form work. -->
-<!-- WARNING: Some web hosts do not allow emails to be sent through forms to common mail hosts like Gmail or Yahoo. It's recommended that you use a private domain email address! -->
-<!-- NOTE: To use the contact form, your site must be on a live web host with PHP! The form will not work locally! -->
-
-
-
+<p>Kritik? Wünsche? Anregungen? Lasst es mich wissen: Hier das Kontaktformular um mich zu erreichen. </p>
     
 <form name="sentMessage" id="contactForm" action="https://formspree.io/info@danielknoell.de" method="POST" novalidate>
     <div class="row control-group">
