@@ -31,29 +31,29 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
 
-            //new
-            var nodemailer = require('nodemailer');
-            var conf = require('././mail/mail_conf.json');
-
-            // create reusable transporter object using the default SMTP transport
-            var transporter = nodemailer.createTransport(conf);
-
-            // setup e-mail data with unicode symbols
-            var mailOptions = {
-                from: 'Kontaktformular Webseite <noreply@danielknoell.de>', // sender address
-                to: 'info@danielknoell.de', // list of receivers
-                subject: 'Website Contact Form: '+firstName, // Subject line
-                text: '"You have received a new message from your website contact form.\n\n. Here are the details:\n\nName: '+firstName+'\n\nEmail: '+email+'\n\nPhone: '+phone+'\n\nMessage:\n'+message, // plaintext body
-                // html: '<b>Hello world 🐴</b>' // html body
-            };
-
-            // send mail with defined transport object
-            transporter.sendMail(mailOptions, function(error, info){
-                if(error){
-                    return console.log(error);
-                }
-                console.log('Message sent: ' + info.response);
-            });
+            // //new
+            // var nodemailer = require('nodemailer');
+            // var conf = require('././mail/mail_conf.json');
+            //
+            // // create reusable transporter object using the default SMTP transport
+            // var transporter = nodemailer.createTransport(conf);
+            //
+            // // setup e-mail data with unicode symbols
+            // var mailOptions = {
+            //     from: 'Kontaktformular Webseite <noreply@danielknoell.de>', // sender address
+            //     to: 'info@danielknoell.de', // list of receivers
+            //     subject: 'Website Contact Form: '+firstName, // Subject line
+            //     text: '"You have received a new message from your website contact form.\n\n. Here are the details:\n\nName: '+firstName+'\n\nEmail: '+email+'\n\nPhone: '+phone+'\n\nMessage:\n'+message, // plaintext body
+            //     // html: '<b>Hello world 🐴</b>' // html body
+            // };
+            //
+            // // send mail with defined transport object
+            // transporter.sendMail(mailOptions, function(error, info){
+            //     if(error){
+            //         return console.log(error);
+            //     }
+            //     console.log('Message sent: ' + info.response);
+            // });
 
             //end_new
 
