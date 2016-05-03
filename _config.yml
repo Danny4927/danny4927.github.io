@@ -15,3 +15,6 @@ exclude: [vendor]
 markdown: kramdown
 permalink: pretty
 encoding: utf-8
+srcset:
+  optipng: true
+  cache: "/tmp/images"

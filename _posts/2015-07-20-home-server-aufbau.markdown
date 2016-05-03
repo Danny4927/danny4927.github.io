@@ -61,6 +61,7 @@ eine PicoPSU eretzt werden
 * HDD: System: 320 GB Daten: 4 TB
 
 ![Server nach dem Einbau der Komponenten]({{ site.url }}/img/server.jpg "Board eingebaut")
+{% image_tag src={{ site.url }}/img/server.jpg width="100" %}
 
 ## Software
 Zu der Software werde ich bald einen neuen Post erstellen.
