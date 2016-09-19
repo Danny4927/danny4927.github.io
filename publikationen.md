@@ -6,6 +6,7 @@ header-img: "../img/about-bg.jpg"
 ---
 ### 2016
 
+- Knoell, D.; Atzmueller, M.; Rieder, C. & Scherer, K.-P. (2016), 'BISHOP - Big Data Driven Self-Learning Support for High-performance Ontology Population', '[LWDA](http://ceur-ws.org/Vol-1670/#paper-41)', [CEUR-WS.org](http://CEUR-WS.org/), pp. 157-164 . [[PDF](http://ceur-ws.org/Vol-1670/paper-41.pdf)]
 - Scherer, K. P.; Germann, M.; Knoell, D.; Baumeister, J. & Furth, S. (2016), 'Wissensgenerierung durch Selbstlernverfahren mit strukturierten Katarakt-Daten', _Spektrum für Augenheilkunde_ **2** , 90 .
 
 ### 2015
