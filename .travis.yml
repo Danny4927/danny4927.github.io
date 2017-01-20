@@ -6,7 +6,7 @@ rvm:
 - 2.2.5
 # Assume bundler is being used, install step will run `bundle install`.
 #script: ./script/cibuild
-install: gem install jekyll html-proofer jekyll-srcset jekyll-seo-tag
+install: gem install jekyll html-proofer jekyll-srcset jekyll-seo-tag jekyll-sitemap
 script: jekyll build && htmlproofer ./_site
 
 # branch whitelist
