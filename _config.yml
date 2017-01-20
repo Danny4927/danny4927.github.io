@@ -4,6 +4,7 @@ email: info@danielknoell.de
 description: > # this means to ignore newlines until "baseurl:"
   This is my little homepage with tech blog.
 github_username:  danny4927
+author: Daniel Knöll
 highlighter: rouge
 github: [Repository metadata]
 isso:
@@ -18,3 +19,5 @@ encoding: utf-8
 srcset:
   optipng: true
   cache: "/tmp/images"
+gems:
+  - jekyll-seo-tag
