@@ -4,9 +4,11 @@ title:  	"Aufbau Home Server"
 subtitle:   "Kleiner Server für die WG"
 date:   	2015-07-19 17:30:31
 author:     "Daniel Knöll"
-type:       BlogPosting
 comments:   true
 header-img: "img/post-bg-02.jpg"
+image:      "img/post-bg-02.jpg"
+seo:
+    type:       BlogPosting
 ---
 
 Unser alter WG Server hat den Geist aufgegeben und nun soll ein neuer her. Das System vorher war der Acer Aspire X1700, 

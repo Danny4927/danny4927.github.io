@@ -4,9 +4,11 @@ title:  	"Eigene Timeline"
 subtitle:   "TimelineJS mit Google Spreadsheet"
 date:   	2015-05-19 18:43:31
 author:     "Daniel Knöll"
-type:       BlogPosting
 comments:   true
 header-img: "img/post-bg-02.jpg"
+image:      "img/post-bg-02.jpg"
+seo:
+    type:       BlogPosting
 ---
 
 Wie ihr vielleicht schon unter [About Me]({{ site.baseurl }}/about/index.html) gesehen habt, habe ich dort einen Zeitstrahl eingefügt. Wie das funktioniert werde ich euch in diesem Post erklären. 

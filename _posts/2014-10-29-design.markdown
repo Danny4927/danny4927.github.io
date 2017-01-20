@@ -5,9 +5,10 @@ subtitle:   "Der erste Post"
 description: "Hier wird gezeigt wie man bei jekyll ein vorhandenes Design "
 date:   	2014-10-29 18:43:31
 author:     "Daniel Knöll"
-type:       BlogPosting
 comments:   true
 header-img: "img/post-bg-02.jpg"
+seo:
+    type:       BlogPosting
 ---
 
 
