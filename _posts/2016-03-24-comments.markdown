@@ -9,6 +9,8 @@ header-img: "img/post-bg-02.jpg"
 image:      "img/post-bg-02.jpg"
 seo:
     type:       BlogPosting
+    author:     "Daniel Knöll"
+    publisher:  "Daniel Knöll"
 ---
 
 Ich war immer mal wieder auf der Suche nach einer geeigneten Kommentarfunktion für den Blog. Dabei war mir eine niedrige 
