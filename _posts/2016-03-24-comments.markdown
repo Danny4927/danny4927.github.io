@@ -1,6 +1,6 @@
 ---
 layout: 	post
-title:  	"Kommentarfunktion für den eigenen Blog"
+title:  	"Kommentar&shy;funktion für den eigenen Blog"
 subtitle:   "Disqus ist nicht die Lösung für mich"
 date:   	2016-03-24 13:30:31
 author:     "Daniel Knöll"
