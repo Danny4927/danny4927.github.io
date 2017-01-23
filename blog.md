@@ -4,6 +4,8 @@ permalink: /blog/
 description: "My little Tech-Blog"
 layout: page
 header-img: "../img/post-bg-04.jpg"
+seo:
+    type:       Blog
 ---
 
 {% for post in site.posts %}
