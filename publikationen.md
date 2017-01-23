@@ -19,4 +19,4 @@ header-img: "../img/about-bg.jpg"
 
 
 
-Die aktuelle Liste ist auch auf [bibsonomy.org](http://www.bibsonomy.org/user/knda/myown?items=1000&resourcetype=publication&sortPage=year&sortPageOrder=desc&format=embed) zu finden.
+Die aktuelle Liste ist auch auf [bibsonomy.org](https://www.bibsonomy.org/user/knda/myown?items=1000&resourcetype=publication&sortPage=year&sortPageOrder=desc) zu finden.
