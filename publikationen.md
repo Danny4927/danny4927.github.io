@@ -4,6 +4,11 @@ description: "Some of my published work"
 layout: page
 header-img: "../img/about-bg.jpg"
 ---
+
+### 2017
+
+- Knoell, D.; Atzmueller, M.; Rieder, C. & Scherer, K. P. (2017). 'A Scalable Framework for Data-Driven Ontology Evaluation', _in_ 'Proc. [GWEM 2017](http://research.idi.ntnu.no/cbr/gwem2017/), co-located with 9th Conference Professional Knowledge Management ([WM 2017](http://wm2017.aifb.kit.edu/))', (In Press), KIT, Karlsruhe, Germany, [CEUR-WS.org](http://CEUR-WS.org/), pp. 97-106 . [[PDF](http://wm2017.aifb.kit.edu/WM2017_Proceedings.pdf)]
+
 ### 2016
 
 - Knoell, D.; Atzmueller, M.; Rieder, C. & Scherer, K.-P. (2016), 'BISHOP - Big Data Driven Self-Learning Support for High-performance Ontology Population', _in_ '[Proc. LWDA 2016 (FGWM Special Track)](http://ceur-ws.org/Vol-1670/#paper-41)', University of Potsdam, Potsdam, Germany, [CEUR-WS.org](http://CEUR-WS.org/), pp. 157-164 . [[PDF](http://ceur-ws.org/Vol-1670/paper-41.pdf)]
