@@ -21,6 +21,7 @@ encoding: utf-8
 languages: ["de"]
 #seo
 lang:       de_DE
+image:    /img/me.jpg
 
 srcset:
   optipng: true
