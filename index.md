@@ -16,6 +16,8 @@ hast lass gerne einen Kommentar unter dem entsprechenden Beitrag. Ich freue mich
 Veröffentlichungen sind unter **[Publikationen]({{ site.baseurl }}/publikationen)** zu finden. Wenn du Kontakt zu mir 
 aufnehmen willst findest du unter **[Kontakt]({{ site.baseurl }}/contact)** ein entsprechenden Formular.
 
+![Ein Bild von mir]({{ site.url }}/img/me.jpg "Daniel Knöll")
+
 ### Viel Spaß ;)
 
 PS: Zur Erstellung der Seite wurde [Jekyll](https://jekyllrb.com/)  mit dem 
