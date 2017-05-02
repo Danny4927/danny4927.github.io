@@ -9,6 +9,7 @@ header-img: "img/post-bg-02.jpg"
 image:      "img/post-bg-02.jpg"
 seo:
     type:       BlogPosting
+    lang:       de_DE
 ---
 
 Unser alter WG Server hat den Geist aufgegeben und nun soll ein neuer her. Das System vorher war der Acer Aspire X1700, 

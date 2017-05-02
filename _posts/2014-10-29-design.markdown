@@ -9,6 +9,7 @@ comments:   true
 header-img: "img/post-bg-02.jpg"
 seo:
     type:       BlogPosting
+    lang:       de_DE
 ---
 
 
