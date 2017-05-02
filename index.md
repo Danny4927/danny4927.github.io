@@ -2,7 +2,7 @@
 title: Daniel Knöll
 layout: page
 subtitle:   "Die private Homepage mit kleinem Tech Blog von Daniel Knöll"
-description: "Die private Homepage mit kleinem Tech Blog von Daniel Knöll. Hier erfahrt ihr alles über mich. Angefangen von meinem Lebenslauf über ein paar technische Beiträge zu verschiedensten Themen bis zu meinen bisherigen Veröffentlichungen"
+description: "Die private Homepage mit kleinem Tech Blog von Daniel Knöll. Hier findest du neben technischen Blogbeiträgen auch den  Lebenslauf und meine  Veröffentlichungen."
 header-img: "img/home-bg.jpg"
 
 ---
