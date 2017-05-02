@@ -2,9 +2,10 @@
 title:  Daniels Homepage
 email: info@danielknoell.de
 description: > # this means to ignore newlines until "baseurl:"
-  Die private Homepage mit kleinem Tech Blog von Daniel Knöll
+  Die private Homepage mit kleinem Tech Blog von Daniel Knöll. Hier erfahrt ihr alles über mich. Angefangen von meinem Lebenslauf über ein paar technische Beiträge zu verschiedensten Themen bis zu meinen bisherigen Veröffentlichungen.
 github_username:  danny4927
 author: Daniel Knöll
+publisher: Daniel Knöll
 url: https://danielknoell.de
 highlighter: rouge
 github: [Repository metadata]
