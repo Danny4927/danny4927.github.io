@@ -20,7 +20,7 @@
                 </li>
                 {% for page in site.pages %}
                 <li>
-                    {% if page.title %}<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
+                    {% if page.title != "Daniel Knöll" %}<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
                 </li>
                 {% endfor %}
             </ul>
