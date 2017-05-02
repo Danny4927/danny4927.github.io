@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Contact"
+title: "Kontakt"
 description: "Fragen? Dann hier melden!"
 header-img: "../img/contact-bg.jpg"
 ---

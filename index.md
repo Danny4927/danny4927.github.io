@@ -9,9 +9,11 @@ header-img: "img/home-bg.jpg"
 
 ## Herzlich Willkommen!
 Du hast es auf meine private Hompage geschafft! Alles wissenswerte über mich findest du unter 
-**[About Me]({{ site.baseurl }}/about/)**. Die Entwicklung meines kleinen Tech-Blogs kannst du unter 
+**[About Me]({{ site.baseurl }}/about/)**. Dazu zählt z.B. mein Lebenslauf in Form einer Zeitleiste und meine Interessen. 
+Die Entwicklung meines kleinen Tech-Blogs kannst du unter 
 **[Blog]({{ site.baseurl }}/blog/)** verfolgen. Wenn dir die Blogbeitrage gefallen oder du Anmerkungen/Kritik 
-hast lass gerne einen Kommentar unter dem entsprechenden Beitrag. Ich freue mich immer über Feedback. Meine bisherigen Veröffentlichungen sind unter 
-**[Publikationen]({{ site.baseurl }}/publikationen)** aufgelistet.
+hast lass gerne einen Kommentar unter dem entsprechenden Beitrag. Ich freue mich immer über Feedback. Meine bisherigen 
+Veröffentlichungen sind unter **[Publikationen]({{ site.baseurl }}/publikationen)** zu finden. Wenn du Kontakt zu mir 
+aufnehmen willst findest du unter **[Kontakt]({{ site.baseurl }}/contact)** ein entsprechenden Formular.
 
 ### Viel Spaß ;)
