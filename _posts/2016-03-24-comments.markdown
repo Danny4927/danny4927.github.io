@@ -8,10 +8,7 @@ comments:   true
 header-img: "img/post-bg-02.jpg"
 image:      "img/post-bg-02.jpg"
 seo:
-    type:       Person
-    author:     "Daniel Knöll"
-    publisher:  "Daniel Knöll"
-    lang:       de_DE
+    type:       BlogPosting
 ---
 
 Ich war immer mal wieder auf der Suche nach einer geeigneten Kommentarfunktion für den Blog. Dabei war mir eine niedrige 

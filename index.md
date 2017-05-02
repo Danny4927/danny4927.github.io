@@ -3,8 +3,7 @@ title: Daniel Knöll
 layout: page
 description: "Die private Homepage mit kleinem Tech Blog von Daniel Knöll."
 header-img: "img/home-bg.jpg"
-seo:
-    lang:       de_DE
+
 ---
 
 
