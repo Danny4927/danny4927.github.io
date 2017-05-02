@@ -17,3 +17,7 @@ Veröffentlichungen sind unter **[Publikationen]({{ site.baseurl }}/publikatione
 aufnehmen willst findest du unter **[Kontakt]({{ site.baseurl }}/contact)** ein entsprechenden Formular.
 
 ### Viel Spaß ;)
+
+PS: Zur Erstellung der Seite wurde [Jekyll](https://jekyllrb.com/)  mit dem 
+[Clean Blog](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll) Design von 
+[Start Bootstrap](https://startbootstrap.com/) verwendet. 
