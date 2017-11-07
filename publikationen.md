@@ -2,7 +2,7 @@
 title: "Publikationen"
 description: "Some of my published work"
 layout: page
-header-img: "../img/about-bg.jpg"
+header-img: "../img/publication-bg.jpg"
 ---
 
 ### 2017
