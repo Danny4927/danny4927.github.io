@@ -29,6 +29,6 @@ lang:       de_DE
 srcset:
   optipng: true
   cache: "/tmp/images"
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
