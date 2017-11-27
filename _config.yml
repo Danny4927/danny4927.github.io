@@ -13,6 +13,10 @@ isso:
   data_isso: https://comments.danielknoell.de/
   script_src: https://comments.danielknoell.de/js/embed.min.js
 
+#htmlproofer
+html_proofer:
+  ssl_verifyhost: 0
+
 # Build settings
 exclude: [vendor]
 markdown: kramdown
