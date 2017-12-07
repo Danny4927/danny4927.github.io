@@ -7,6 +7,8 @@ header-img: "../img/publication-bg.jpg"
 
 ### 2017
 
+- Scherer, K. P.; Knöll, D.; Baumeister, J. & Furth, S. (2017), Knowledge Acquisition by Selflearning Methods with Structured Clinical Data, _in_ 'IJAS: International Conference on Arts and Sciences' .
+
 - Knoell, D.; Atzmueller, M.; Rieder, C. & Scherer, K. P. (2017). 'A Scalable Framework for Data-Driven Ontology Evaluation', _in_ 'Proc. [GWEM 2017](http://research.idi.ntnu.no/cbr/gwem2017/), co-located with 9th Conference Professional Knowledge Management ([WM 2017](http://wm2017.aifb.kit.edu/))', (In Press), KIT, Karlsruhe, Germany, [CEUR-WS.org](http://CEUR-WS.org/), pp. 97-106 . [[PDF](http://wm2017.aifb.kit.edu/WM2017_Proceedings.pdf)]
 
 - Knoell, D.; Rieder, C. & Scherer, K. P. (2017). 'Datengetriebene Ontologie-Evaluierung im Big Data Umfeld', _in_ '[Klausurtagung Large Scale Ontology Learning](https://www.dagstuhl.de/en/program/calendar/evhp/?semnr=17124)', [Schloss Dagstuhl - Leibniz-Zentrum für Informatik](https://www.dagstuhl.de/), Dagstuhl, Germany
