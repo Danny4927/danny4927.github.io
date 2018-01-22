@@ -1,5 +1,5 @@
 ---
-title: "Publikationen"
+title: "Publika&shy;tionen"
 description: "Some of my published work"
 layout: page
 header-img: "../img/publication-bg.jpg"
