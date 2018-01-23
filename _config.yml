@@ -33,9 +33,10 @@ languages: ["de"]
 lang:       de_DE
 
 srcset:
-  optipng: true
   cache: "/tmp/images"
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-srcset
 #  - jekyll-hyphenate_filter

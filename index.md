@@ -16,7 +16,8 @@ hast lass gerne einen Kommentar unter dem entsprechenden Beitrag. Ich freue mich
 Veröffentlichungen sind unter **[Publikationen]({{ site.baseurl }}/publikationen)** zu finden. Wenn du Kontakt zu mir
 aufnehmen willst findest du unter **[Kontakt]({{ site.baseurl }}/contact)** ein entsprechenden Formular.
 
-![Daniel Knöll]({{ site.url }}/img/me.jpg "Daniel Knöll")
+
+{% image_tag src="{{ site.url }}/img/me.jpg" width="80" %}
 
 ### Viel Spaß ;)
 
