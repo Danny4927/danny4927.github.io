@@ -17,6 +17,12 @@ isso:
 html_proofer:
   ssl_verifyhost: 0
 
+hyphenate_filter:
+  language: de_de
+  left: 2
+  right: 2
+  hyphen: "&shy;"
+
 # Build settings
 exclude: [vendor]
 markdown: kramdown
@@ -32,3 +38,4 @@ srcset:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-hyphenate_filter
