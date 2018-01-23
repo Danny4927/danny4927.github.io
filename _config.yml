@@ -38,4 +38,4 @@ srcset:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-hyphenate_filter
+#  - jekyll-hyphenate_filter
