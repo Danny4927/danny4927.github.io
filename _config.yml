@@ -10,8 +10,8 @@ url: https://danielknoell.de
 highlighter: rouge
 github: [Repository metadata]
 isso:
-  data_isso: https://comments.danielknoell.de/
-  script_src: https://comments.danielknoell.de/js/embed.min.js
+  data_isso: //comments.danielknoell.de/
+  script_src: //comments.danielknoell.de/js/embed.min.js
 
 #htmlproofer
 html_proofer:
