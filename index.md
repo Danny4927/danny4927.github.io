@@ -17,7 +17,7 @@ Veröffentlichungen sind unter **[Publikationen]({{ site.baseurl }}/publikatione
 aufnehmen willst findest du unter **[Kontakt]({{ site.baseurl }}/contact)** ein entsprechenden Formular.
 
 
-{%raw%}{% image_tag src="{{ site.url }}/img/me.jpg" width="80" %}{%endraw%}
+{% image_tag src="/img/me.jpg" width="400" %}
 
 ### Viel Spaß ;)
 
