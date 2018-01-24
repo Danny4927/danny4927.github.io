@@ -6,7 +6,7 @@ rvm:
 - 2.4.2
 # Assume bundler is being used, install step will run `bundle install`.
 #script: ./script/cibuild
-install: gem install jekyll html-proofer jekyll-srcset jekyll-seo-tag jekyll-sitemap jekyll-hyphenate_filter
+install: gem install jekyll html-proofer jekyll-srcset jekyll-seo-tag jekyll-sitemap
 script: jekyll build && htmlproofer --assume-extension ./_site
 
 # branch whitelist
