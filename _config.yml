@@ -32,9 +32,6 @@ languages: ["de"]
 #seo
 lang:       de_DE
 
-srcset:
-  cache: "/tmp/images"
-
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
